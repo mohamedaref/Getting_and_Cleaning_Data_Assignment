@@ -17,5 +17,5 @@ This file is created to explain the steps that has been done in run_analysis.R, 
 10. Reshaping the new data frame created from step 9 by using melt and dcast function, melt function will create two new columns called variable and value, the variable column will contain the function name in feature file and value column will contain the value of this function, and the function dcast will apply the grouping on the data with average function( average per subject per activity).
 11. write the result of data frame created in step 10 into a text file in samsung folder.
 
-Note: samsung folder must be in the working directory folder to make this file work.
+# Note: samsung folder must be in the working directory folder to make this file work.
 
