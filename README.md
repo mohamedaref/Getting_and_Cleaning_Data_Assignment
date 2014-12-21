@@ -1,7 +1,7 @@
 Getting_and_Cleaning_Data_Assignment
 ====================================
 
-This file is created to explain the steps that has been done in run_analysis.R, read the below steps to find out how the script is going work.
+This file is created to explain the steps that has been done in run_analysis.R, read the below steps to find out how the script is going to work.
 
 # steps:
 
